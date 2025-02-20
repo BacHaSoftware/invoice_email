@@ -18,7 +18,7 @@
     'data': ['data/invoice_email_template_data.xml','wizard/account_invoice_send_views.xml'],
     'demo': [],
     "external_dependencies": {},
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
