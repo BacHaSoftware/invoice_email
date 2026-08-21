@@ -8,7 +8,7 @@
     <img src="/bhs_invoice_email/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Email For Invoice</h3>
+  <h3 align="center">Invoice Email Distribution</h3>
 
   <p align="center">
     A product of Bac Ha Software allows to send one email to main partner and cc to remaining partners.
